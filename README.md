@@ -3,13 +3,13 @@
 <h2>🙋‍♂️ About me </h2>
 
 - 👨‍💻 I am currently working as a backend developer.
-- 📚 Systems engineering student
+- 🎓 University technician in programming
 - 🌐 link to my web [portfolio](https://lisandro-funes.web.app/)
 
 <h2><code>&lt;&#47;&gt;</code> My skills </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,bootstrap,js,ts,angular&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,html,css,bootstrap,js,ts,angular,aws&perline=12" />
   </a>
 </p>
 
