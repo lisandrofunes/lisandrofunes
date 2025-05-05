@@ -9,7 +9,7 @@
 <h2><code>&lt;&#47;&gt;</code> My skills </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,html,css,bootstrap,js,ts,angular,aws&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,angular,ts,js,html,css,tailwind,bootstrap,aws&perline=12" />
   </a>
 </p>
 
